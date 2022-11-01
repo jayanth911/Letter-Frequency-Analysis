@@ -1,0 +1,39 @@
+  //System.out.println("a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z |");
+        // System.out.print("      ");
+    //     for (int i = 97; i < 122; i++) {
+    //     char convertedChar = (char)(i);
+    //     System.out.print(convertedChar +"   | ");
+    // }  
+    
+    
+    // System.out.println();
+    // for(int o=0;o<27;o++)
+    // {
+    //     char convertedChar = (char)(o+97);
+    //     //System.out.print(convertedChar+" --> ");
+    //         for(int l = 0 ; l<56;l++)
+    //         {
+    //             String temp = " ["+matrix[o][l]+"|"+matrix[o][l+1]+"] ";
+    //             Files.writeString(fileName, temp);
+    //             System.out.print(" ["+matrix[o][l]+"|");
+    //             l++;
+    //             System.out.print(matrix[o][l]+"] ");
+    //         }
+    //          System.out.println();
+    //          Files.writeString(fileName, "\n");
+    //         // System.out.println("-------------------------------------------------------------------------------------------------------------------------------------------");
+    //     }
+    }
+    // System.out.println();
+    // for(int o=0;o<27;o++)
+    //     {
+    //         char convertedChar = (char)(o+97);
+    //         System.out.print(convertedChar+" --> ");
+    //         for(int l = 0 ; l<28;l++)
+    //         {
+    //             System.out.print(arr[o][l]+" | ");
+    //         }
+    //         System.out.println();
+    //         System.out.println("------------------------------------------------------------------------------------------------------------");
+    //     }
+    // }
